@@ -28,9 +28,13 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 |                          |Linear Regression, Part 2|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP64501-Topics-in-Machine-Learning-Module/blob/main/Labs/Lab%202%20-%20Linear%20algebra%20and%20linear%20regression%20part%202.ipynb)|
 | November 11               |Neural Networks |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP64501-Topics-in-Machine-Learning-Module/blob/main/Labs/Lab%203%20-%20Neural%20networks.ipynb)|
 | November 25                |Vision Transformers |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%205%20-%20Vision%20transformers.ipynb)|
+| December 9                |Graph Neural Networks |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP64501-Topics-in-Machine-Learning-Module/blob/main/Labs/Lab%205%20-%20Graph%20NN.ipynb)|
+
 <!--| November 5                |Linear algebra and linear regresion (part 2) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%203%20-%20Linear%20algebra%20and%20linear%20regression%20part%202.ipynb#scrollTo=fsaKUItAwDm9)|
 | November 19                |Neural networks |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/1bc7c176039eb338262f1f573a2eaaed14b47135/Labs/Lab%204%20-%20Neural%20networks.ipynb)|
-| December 3                |Vision Transformers |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%205%20-%20Vision%20transformers.ipynb)|
+| November 25                |Vision Transformers |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%205%20-%20Vision%20transformers.ipynb)|
+| December 9                |Graph Neural Networks |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP64501-Topics-in-Machine-Learning-Module/blob/main/Labs/Lab%205%20-%20Graph%20NN.ipynb)|
+
 -->
 
 <!---
