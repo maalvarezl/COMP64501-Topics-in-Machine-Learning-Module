@@ -16,7 +16,7 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 
 |  Date  | Lab session        |  Google Colab link |
 |----------------|--------------------|--------------------|
-| October 9               |An end-to-end ML project |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
+| October 9               |An end-to-end ML project |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP64501-Topics-in-Machine-Learning-Module/blob/main/Labs/Lab%201%20-%20End-to-end%20project%20in%20ML.ipynb)|
 
 <!---
 
