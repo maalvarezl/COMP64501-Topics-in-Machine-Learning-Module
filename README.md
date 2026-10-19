@@ -17,6 +17,8 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 |  Date  | Lab session        |  Google Colab link |
 |----------------|--------------------|--------------------|
 | October 9               |An end-to-end ML project |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP64501-Topics-in-Machine-Learning-Module/blob/main/Labs/Lab%201%20-%20End-to-end%20project%20in%20ML.ipynb)|
+| October 23               |Linear Regression, Part 1|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP64501-Topics-in-Machine-Learning-Module/blob/main/Labs/Lab%202%20-%20Linear%20algebra%20and%20linear%20regression%20part%201.ipynb#scrollTo=dyuVP4Mn1FgH)|
+|                          |Linear Regression, Part 2|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP64501-Topics-in-Machine-Learning-Module/blob/main/Labs/Lab%202%20-%20Linear%20algebra%20and%20linear%20regression%20part%202.ipynb#scrollTo=azGfiPBd1jSF)|
 
 <!---
 
